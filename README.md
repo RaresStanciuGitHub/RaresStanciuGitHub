@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RaresStanciuGitHub
 - 👀 I’m interested in learning to code. I'm doing a little videogame based on minesweeper in order to learn further than my college lessons.
-- Instagram: @raresstanciu47
 - Mail: rares47stanciu@gmail.com
 
 <!---
